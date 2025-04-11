@@ -19,7 +19,7 @@ O arquivo utilizado foi:
 
 - `cancelamentos.csv`: contém informações dos clientes da plataforma e suas respectivas decisões de cancelamento.
 
-> ⚠️ Caso o arquivo não esteja diretamente neste repositório devido ao seu tamanho, ele pode estar compactado ou disponível por meio de um link externo (verifique nas instruções do notebook ou na seção abaixo).
+> ⚠️ O arquivo está disponibilizado em .zip
 
 ## 📈 O que foi analisado?
 
